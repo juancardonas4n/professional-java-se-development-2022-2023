@@ -11,10 +11,10 @@
 ## Criterias
 | Criteria                                | Description                                                  | Points |
 | :-------------------------------------- | ------------------------------------------------------------ | ------ |
-| **Requirement for the system**          | Both requirements: funcional and non-functional are described at the project. | 7      |
-| **Uses cases**                          | The uses cases describe the requirements.                    | 7      |
-| **Objects, classes, and relationships** | There are two differents diagramas. The first one describes the first analysis of the project. The second one is more concrete that the first one. | 8      |
-| **Class diagrams**                      | The class diagrama describes the clases that were found at the previous section. | 8      |
+| **Requirement for the system**          | Both requirements: functional and non-functional are described in the project. | 7      |
+| **Uses cases**                          | The use cases describe the requirements.                     | 7      |
+| **Objects, classes, and relationships** | There are two different diagrams. The first one describes the first analysis of the project. The second one is more concrete that the first one. | 8      |
+| **Class diagrams**                      | The class diagram describes the classes that were found in the previous section. | 8      |
 
 ## Notes
 

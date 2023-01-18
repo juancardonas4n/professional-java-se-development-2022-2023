@@ -13,7 +13,7 @@
 | :-------------------------------------- | ------------------------------------------------------------ | ------ |
 | **Requirement for the system**          | Both requirements are defined: as functional and non-functional. | 7      |
 | **Uses cases**                          | The use cases focus on errors more than successful scenarios. | 7      |
-| **Objects, classes, and relationships** | The completed analysis of clases, objects and resposabilites is incompleted. | 4      |
+| **Objects, classes, and relationships** | The completed analysis of classes, objects, and responsibilities is incomplete. | 4      |
 | **Class diagrams**                      | Following the same situation of the former point.            | 4      |
 
 ## Notes

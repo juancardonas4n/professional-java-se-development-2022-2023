@@ -12,8 +12,8 @@
 | Criteria                                | Description                                                  | Points |
 | :-------------------------------------- | ------------------------------------------------------------ | ------ |
 | **Requirement for the system**          | The functional requirements are defined, but it could make a little more detail on technical requirements. | 7      |
-| **Uses cases**                          | The uses case represent not only the functional requirements, but it contains more details how the systems will work. | 7      |
-| **Objects, classes, and relationships** | The identifications of objects and classes is well elaborated, with detail. | 8      |
+| **Uses cases**                          | The use case represents not only the functional requirements, but it contains more details on how the systems will work. | 7      |
+| **Objects, classes, and relationships** | The identifications of objects and classes are well elaborated, with detail. | 8      |
 | **Class diagrams**                      | The class diagram describe the relationship between the objects already identified. | 8      |
 
 ## Notes
