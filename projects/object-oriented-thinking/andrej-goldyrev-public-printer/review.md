@@ -23,6 +23,6 @@
 * Use cases 2![image-20230118161851937](/home/juancardona/Workbench/professional-java-se-development-2022-2023/images/image-20230118161851937.png)
 * Objects, classes and relationships![image-20230118161925452](/home/juancardona/Workbench/professional-java-se-development-2022-2023/images/image-20230118161925452.png)
 * Class diagram![image-20230118161955370](/home/juancardona/Workbench/professional-java-se-development-2022-2023/images/image-20230118161955370.png)
-* There are necesary some clases, as `User`(Students, Printer-Assistant).
-* Each `Resource` must be indentified individual: Paper, Ink (color or Blank and White).
-* A system to count as transaction each individual interaction.
+* Some classes are necessary, such as `User`(Students, Printer-Assistant).
+* Each resource must be identified: Paper, Ink (color or Blank and White). The system could have other resources.
+* A system to count as a transaction for each interaction.

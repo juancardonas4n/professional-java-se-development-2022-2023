@@ -12,9 +12,9 @@
 | Criteria                                | Description                                                  | Points |
 | :-------------------------------------- | ------------------------------------------------------------ | ------ |
 | **Requirement for the system**          | There are functional and non-functional requirements.        | 7      |
-| **Uses cases**                          | Some use cases describe the functional requirements, but they need to be more formal. | 7      |
-| **Objects, classes, and relationships** | The object                                                   | 4      |
-| **Class diagrams**                      |                                                              | 4      |
+| **Use cases**                           | Some use cases describe the functional requirements, but they need to be more formal. | 7      |
+| **Objects, classes, and relationships** | There are a lot of use cases, but they are not complete. They describe each case but don't follow a formal way: there is no explicitly identifying the actor who starts the action.  There are no use cases where that belong to the staff area. | 4      |
+| **Class diagrams**                      | It identifies all the classes that appear on use cases but add other that doesn't appear explicitly as staff. The staff has an important role; they not only provide paper and ink, but they are in charge of failures, putting the printer online and offline, adding new users to the system, etc. | 4      |
 
 ## Notes
 
@@ -24,6 +24,6 @@
 * Objects, classes and relationships![image-20230117121315702](/home/juancardona/Workbench/professional-java-se-development-2022-2023/images/image-20230117121315702.png)
 * Class diagram![image-20230117125924008](/home/juancardona/Workbench/professional-java-se-development-2022-2023/images/image-20230117125924008.png)
 * The user requirements need to be reformulated.
-* The use case are not formal as we expected. 
-* The Objects and relationship is simpler, there is not relationship between scanned document and student, and the information about each printer.
-* The Class diagram is incompleted with relation object diagram.
+* The use cases are not formal as we expected. 
+* The objects and relationship are more straightforward; there is no relationship between scanned documents and students and the information about each printer.
+* The Class diagram is incomplete, some lines connect different classes, but they don't show which kind of relationship it is. This is important because enables us to establish which classes are clients and which ones are their corresponding servers.

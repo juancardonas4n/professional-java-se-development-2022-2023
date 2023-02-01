@@ -28,4 +28,4 @@
 * Class diagram![image-20230118120929633](/home/juancardona/.var/app/io.typora.Typora/config/Typora/typora-user-images/image-20230118120929633.png)
 * There are some repited use cases on the document.
 * How is the relationship between Kiosks and Money?
-* The class diagram is shorter version. There are more classes: Which is resposable to send notifications to student or technician? On the use cases, there is indications that projects going to manage queue of printers, on the current diagram, where are those queues? and where is the relationship with papers? How a document is identified?
+* The class diagram is a shorter version. There are more classes: Which is responsible for sending notifications to students or technicians? On the use cases, there are indications that projects are going to manage queues of printers. On the current diagram, where are those queues? and where is the relationship with papers? How is a document identified?
