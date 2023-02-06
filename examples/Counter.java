@@ -1,6 +1,8 @@
 public class Counter {
+    // 1. Atributos privado
     private int value;
 
+    // 2. Constructor no debe exponer el estado interno
     public Counter(int value) {
         this.value = value;
     }
@@ -9,6 +11,7 @@ public class Counter {
     //     value++;
     // }
 
+    // Todos los métodos deben ser sincronizados (sychronized).
     public void incr() {
         synchronized(this) {
             value++;
